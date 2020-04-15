@@ -2,7 +2,7 @@
 Using OpenCV to process input frames and output a path for the robot to follow.
 
 Software:\
--OpenCv
+- OpenCv
 
 Hardware:
 - Raspberry pi
