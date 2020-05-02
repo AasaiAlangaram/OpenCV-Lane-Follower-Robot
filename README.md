@@ -1,4 +1,4 @@
-# OpenCV-Line-Follower Robot
+# OpenCV-Lane-Follower Robot
 Using OpenCV to process input frames and output a path for the robot to follow.
 
 ### Software:
